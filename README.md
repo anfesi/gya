@@ -11,11 +11,11 @@ La duplicidad de datos y la presencia de tipos de datos incorrectos en algunas c
 Ante estas inconsistencias, se requiere un análisis completo de los datos, la identificación y corrección de registros duplicados, la validación y modificación de los tipos de datos para garantizar que coincidan con las características de cada columna. Esto se logra mediante procesos de limpieza de datos, transformación de tipos de datos y validación de integridad, que mejoran la calidad y confiabilidad de los análisis y resultados del conjunto de datos.
 
 # Contenido del repositorio 
-Limpieza_de_datos.ipynb
-Manipulación_de_datos.ipynb
-README.md
-datos_limpios.csv
-vsBucaramanga.csv (datos originales)
+- Limpieza_de_datos.ipynb
+- Manipulación_de_datos.ipynb
+- README.md
+- datos_limpios.csv
+- vsBucaramanga.csv (datos originales)
 
 # Detalles sobre la cantidad y naturaleza de los datos
 
